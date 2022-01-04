@@ -1,6 +1,7 @@
 # Categorical Data Processing
 
 Processing data categorical
+
 ![image](https://user-images.githubusercontent.com/78567418/147978604-f53aee7a-a6b3-4ca8-8ada-6223caf76bf2.png)
 
 Pandas dummies: https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
